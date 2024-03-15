@@ -1,0 +1,24 @@
+# OCR components
+pytesseract
+google-cloud-vision
+pillow
+matplotlib
+easyocr
+
+opencv-python
+numpy
+tensorflow
+ipywidgets 
+pandas
+textract
+
+
+# NLP and Large Language Model (LLM) - GPT-3
+spacy
+openai
+langchain
+
+
+# Text to Speech
+pygame
+gtts
