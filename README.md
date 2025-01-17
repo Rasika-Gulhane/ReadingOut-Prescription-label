@@ -12,6 +12,16 @@ Install All necessary libraries  get all required credentils:
 Best result through
 Google_Vision- LLM (Langchain) - gTTS (Text-to-Speech)
 
+LLM Based Medical Prescription Reading Application:
+
+Designed and developed an end-to-end AI-driven platform for handwritten prescription label reading using OCR, NLP, LLMs, and TextToSpeech.
+Implemented text extraction using AWS Textract and Google Vision, optimizing accuracy for handwritten prescriptions.
+Leveraged spaCy’s Drug Named Entity Recognition (NER) for precise medicine name recognition and Gensim’s LDA topic modeling to enhance contextual insights.
+Integrated GPT-4 with the LangChain Sequential framework to ensure robust text processing and contextual understanding of medical Nuance prescriptions.
+Engineered LLM-based dosage guidance using NLP Word Embeddings technique ensures accurate dosage interpretation for pharmacists and patients.
+Implemented ML Ops practices for model monitoring and deployment, improving system reliability.
+Designed a AWS cloud-based solution, ensuring high availability and performance
+
 
 Check the audio output and given dataset image to check its efficiency.
 
